@@ -40,6 +40,8 @@ class DB {
         return person
         break
       case 'document':
+        // const document =
+        
         break
       default:
         break
